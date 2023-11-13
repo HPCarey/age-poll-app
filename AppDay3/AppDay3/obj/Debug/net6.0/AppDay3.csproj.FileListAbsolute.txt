@@ -1,0 +1,14 @@
+C:\Users\ThinkPad\source\repos\AppDay3\AppDay3\bin\Debug\net6.0\AppDay3.exe
+C:\Users\ThinkPad\source\repos\AppDay3\AppDay3\bin\Debug\net6.0\AppDay3.deps.json
+C:\Users\ThinkPad\source\repos\AppDay3\AppDay3\bin\Debug\net6.0\AppDay3.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\AppDay3\AppDay3\bin\Debug\net6.0\AppDay3.dll
+C:\Users\ThinkPad\source\repos\AppDay3\AppDay3\bin\Debug\net6.0\AppDay3.pdb
+C:\Users\ThinkPad\source\repos\AppDay3\AppDay3\obj\Debug\net6.0\AppDay3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\source\repos\AppDay3\AppDay3\obj\Debug\net6.0\AppDay3.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\AppDay3\AppDay3\obj\Debug\net6.0\AppDay3.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\AppDay3\AppDay3\obj\Debug\net6.0\AppDay3.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\AppDay3\AppDay3\obj\Debug\net6.0\AppDay3.dll
+C:\Users\ThinkPad\source\repos\AppDay3\AppDay3\obj\Debug\net6.0\refint\AppDay3.dll
+C:\Users\ThinkPad\source\repos\AppDay3\AppDay3\obj\Debug\net6.0\AppDay3.pdb
+C:\Users\ThinkPad\source\repos\AppDay3\AppDay3\obj\Debug\net6.0\AppDay3.genruntimeconfig.cache
+C:\Users\ThinkPad\source\repos\AppDay3\AppDay3\obj\Debug\net6.0\ref\AppDay3.dll
